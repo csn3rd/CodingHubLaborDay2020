@@ -1,5 +1,5 @@
 # CodingHubLaborDay2020
-My code for The Coding Hub's Labor Day 2020 Contest. I placed 3rd out of 57 competitors.
+My code for The Coding Hub's Labor Day 2020 Contest. I tied for 1st (placed 3rd by time) out of 57 competitors.
 
 ## A. Binary Substring
 Solution: Count number of zeroes in O(*n*) and then calculate total number of pairings (equivalent to combination of number of zeroes choose 2) in O(1).\
